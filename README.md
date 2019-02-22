@@ -61,7 +61,7 @@ You can use the following custom parameters in `_config.yml`.
 
 # Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant][contributor-covenant] code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/moodule/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant][contributor-covenant] code of conduct.
 
 # Development
 
