@@ -1,8 +1,8 @@
 # Overflow - Jekyll theme
 
-> A Jekyll version of the "Editorial" theme by [HTML5 UP][html5up].
+> A Jekyll version of the "Overflow" theme by [HTML5 UP][html5up].
 
-![Editorial Theme](assets/images/screenshot.jpg "Overflow Theme")
+![Overflow Theme](assets/images/screenshot.jpg "Overflow Theme")
 
 # Installation
 
