@@ -34,18 +34,14 @@ For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jek
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
-## Publication
-
-To post your website as a Github page, fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file.
-
-# Configuration
+## Configuration
 
 You can use the following custom parameters in `_config.yml`.
 
-## Site
+### Site
 - `subtitle` sets the text for the lighter colored text next to your site's title.
 
-## Social
+### Social
 - `500px_url`
 - `facebook_url`
 - `github_url`
@@ -57,7 +53,7 @@ You can use the following custom parameters in `_config.yml`.
 - `slack_url`
 - `twitter_url`
 
-## Contact
+### Contact
 - `street_address`
 - `city`
 - `state`
@@ -66,9 +62,13 @@ You can use the following custom parameters in `_config.yml`.
 - `phone`
 - `email`
 
+### Publication
+
+To post your website as a Github page, fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file.
+
 # Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/moodule/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant][contributor-covenant] code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/moodule/jekyll-theme-overflow. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant][contributor-covenant] code of conduct.
 
 # Development
 
