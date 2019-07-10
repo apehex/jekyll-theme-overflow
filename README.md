@@ -2,7 +2,7 @@
 
 > A Jekyll version of the "Overflow" theme by [HTML5 UP][html5up].
 
-You can preview the theme [here](https://moodule.github.io/jekyll-theme-overfow
+You can preview the theme [here](https://moodule.github.io/jekyll-theme-overflow
 
 ![Overflow Theme](assets/images/screenshot.jpg "Overflow Theme")
 
@@ -62,7 +62,7 @@ You can use the following custom parameters in `_config.yml`.
 - `phone`
 - `email`
 
-### Publication
+## Publication
 
 To post your website as a Github page, fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file.
 
